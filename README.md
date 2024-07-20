@@ -1,6 +1,6 @@
 # 📈 **Dynamic Pricing Strategies for Retail: A Data-Driven Approach**
 
-![Dynamic Pricing]([https://via.placeholder.com/800x400.png?text=Dynamic+Pricing+Strategies+for+Retail&bg=ffcc00&fg=003366](https://media.designrush.com/inspiration_images/345908/conversions/walmart_1-preview.jpg)) <!-- Replace with an actual image URL -->
+![Dynamic Pricing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyi0K_FxR0wFKEN0a48mydafOvX2kQhbwEug&s) <!-- Replace with an actual image URL -->
 
 🚀 **Project Overview**
 
