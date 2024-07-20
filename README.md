@@ -1,5 +1,7 @@
 # 📈 **Dynamic Pricing Strategies for Retail: A Data-Driven Approach**
 
+![Dynamic Pricing](https://via.placeholder.com/800x400.png?text=Dynamic+Pricing+Strategies+for+Retail) <!-- Replace with an actual image URL -->
+
 🚀 **Project Overview**
 
 In this project, we focus on optimizing retail pricing strategies through data-driven methods. By generating a comprehensive dataset and applying machine learning models, we aim to enhance pricing adjustments based on seasonal trends and product categories. The project involves data generation, feature engineering, preprocessing, and model evaluation to refine pricing strategies and improve business decision-making.
@@ -47,7 +49,7 @@ The dataset includes various retail product details, including:
 
 🔧 **Key Insights**
 
-- **Model Performance:** Model C achieved the highest accuracy in predicting adjusted prices, showcasing the effectiveness of machine learning in refining pricing strategies.
+- **Model Performance:** The Random Forest Regressor achieved the highest accuracy (94.2%) in predicting adjusted prices, showcasing the effectiveness of machine learning in refining pricing strategies.
 - **Seasonal Impact:** Seasonal trends significantly influence pricing adjustments, with varying impacts on products like Ice Cream.
 - **Data-Driven Decisions:** Leveraging data-driven insights enhances pricing strategies and improves business outcomes.
 
